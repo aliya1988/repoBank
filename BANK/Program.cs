@@ -9,6 +9,8 @@ namespace BANK
             string val;
             double summ = 0; //сумма кредита
             double percentRate = 0;//проценты
+            string clientFirstName;
+            string clientSecondName;
 
             DateTime dtStart = DateTime.Parse("2022-01-01");
             int creditTerm = 0;//срок кредита
@@ -28,9 +30,15 @@ namespace BANK
             val = Console.ReadLine();
             creditTerm = Convert.ToInt32(val);
 
-            Credit newCredit = new Credit(summ, percentRate, dtStart, creditTerm);
-            newCredit.Calculate();//расчет графика
-            newCredit.ShowSchedule();//показать график платежей
+            Console.WriteLine("Введите имя клиента");
+            clientFirstName = Console.ReadLine();
+
+            Console.WriteLine("Введите фамилию клиента");
+            clientSecondName = Console.ReadLine();
+
+            CreditDocument cd = new CreditDocument(summ, percentRate, dtStart, creditTerm, clientFirstName, clientSecondName);
+            cd.CalculateCredit();//расчет графика
+            cd.ShowSchedule();//показать график платежей
             Console.Write("Нажмите любую клавишу для завершения программы...");
             Console.ReadKey();
         }

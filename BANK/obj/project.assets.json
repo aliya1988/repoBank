@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Aliya\\.nuget\\packages\\": {},
+    "C:\\Users\\DevStation\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -19,7 +19,7 @@
       "projectUniqueName": "C:\\Users\\Aliya\\source\\repos\\BANK\\BANK\\BANK.csproj",
       "projectName": "BANK",
       "projectPath": "C:\\Users\\Aliya\\source\\repos\\BANK\\BANK\\BANK.csproj",
-      "packagesPath": "C:\\Users\\Aliya\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\DevStation\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Aliya\\source\\repos\\BANK\\BANK\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -28,7 +28,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DevStation\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

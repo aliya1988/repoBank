@@ -54,7 +54,6 @@ namespace BANK
             if (!isPaymentScheduleCalculated) return;
             DateTime currentDate = dtStart;
 
-            Console.Clear();
             Console.WriteLine("{0, -14}{1, -14}{2, -14}{3, -14}{4, -14}", "Дата платежа", "Ежем. платеж", "Проценты", "Основной долг", "Остаток долга");
             for (int i = 0; i < creditTerm; i++)
             {

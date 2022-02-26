@@ -7,10 +7,14 @@ namespace BANK
     class Client
     {
         private string firstName, secondName;
-        public Client()
+        public Client(string name, string secondName)
         {
-            firstName = "default value";
-            secondName = "default value";
+            firstName = name;
+            secondName = secondName;
+        }
+        public string GetName()
+        {
+            return $"{firstName} {secondName}";
         }
     }
 }
