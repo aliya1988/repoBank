@@ -1,0 +1,14 @@
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.csproj.AssemblyReference.cache
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.AssemblyInfoInputs.cache
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.AssemblyInfo.cs
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.csproj.CoreCompileInputs.cache
+C:\Users\Aliya\source\repos\BANK\BANK\bin\Debug\netcoreapp3.1\BANK.exe
+C:\Users\Aliya\source\repos\BANK\BANK\bin\Debug\netcoreapp3.1\BANK.deps.json
+C:\Users\Aliya\source\repos\BANK\BANK\bin\Debug\netcoreapp3.1\BANK.runtimeconfig.json
+C:\Users\Aliya\source\repos\BANK\BANK\bin\Debug\netcoreapp3.1\BANK.runtimeconfig.dev.json
+C:\Users\Aliya\source\repos\BANK\BANK\bin\Debug\netcoreapp3.1\BANK.dll
+C:\Users\Aliya\source\repos\BANK\BANK\bin\Debug\netcoreapp3.1\BANK.pdb
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.dll
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.pdb
+C:\Users\Aliya\source\repos\BANK\BANK\obj\Debug\netcoreapp3.1\BANK.genruntimeconfig.cache
